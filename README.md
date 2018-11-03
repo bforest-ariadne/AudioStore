@@ -1,5 +1,7 @@
 # AudioStore
 
+I made this fork to add a playback rate function to this lib. Code is quite messy and probably wrong and/or inefficient, despite it still working, so use at your own risk.
+
 Launch the demo with `npm start` and visit `http://localhost:8000`.
 
 
