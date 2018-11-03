@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "python -m SimpleHTTPServer",
+    "build": "browserify module.js --standalone audioStore -o build/AudioStore.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

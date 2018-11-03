@@ -1,10 +1,10 @@
-const AudioStore = require('./lib/audiostore');
-const StreamCoordinator = require('./lib/streamcoordinator');
-const Player = require('./lib/player');
+module.exports = AudioStore = require('./lib/audiostore');
+module.exports = StreamCoordinator = require('./lib/streamcoordinator');
+module.exports =  Player = require('./lib/player');
 
 
-module.exports = {
-  AudioStore,
-  StreamCoordinator,
-  Player
-}
+// module.exports = {
+//   AudioStore,
+//   StreamCoordinator,
+//   Player
+// }

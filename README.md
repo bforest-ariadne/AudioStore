@@ -4,6 +4,10 @@ I made this fork to add a playback rate function to this lib. Code is quite mess
 
 Launch the demo with `npm start` and visit `http://localhost:8000`.
 
+To install, clone this repository, cd into the directory and `npm install`.
+
+Build the library with `npm run build`.
+
 
 ### DB
 
